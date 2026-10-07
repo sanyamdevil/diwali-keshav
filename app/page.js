@@ -20,13 +20,13 @@ const PHONE_TEL = "+918168585528";
 
 // Prices are already discounted. No discount logic is applied.
 const products = [
-  { id: 1, name: "Whistling Rocket", price: 500, image: "/1.jpeg" },
-  { id: 2, name: "Chit Put", price: 150, image: "/2.jpeg" },
-  { id: 3, name: "Silver Rain Torches", price: 100, image: "/3.jpeg" },
-  { id: 4, name: "Ganga Jamuna", price: 180, image: "/4.jpeg" },
-  { id: 5, name: "Jumbo Bombs (Hydro)", price: 300, image: "/5.jpeg" },
-  { id: 6, name: "3 Skyshot Stylo", price: 550, image: "/6.jpeg" },
-  { id: 7, name: "Sterling (15 shots)", price: 600, image: "/7.jpeg" },
+  { id: 1, name: "Golden Star Anar", price: 550, image: "/1.jpeg" },
+  { id: 2, name: "Tim Tim Anar", price: 450, image: "/2.jpeg" },
+  { id: 3, name: "2 in 1 Flowerpot", price: 700, image: "/3.jpeg" },
+  { id: 4, name: "Hydro Bomb", price: 250, image: "/4.jpeg" },
+  { id: 5, name: "Colorkoti Fancy", price: 450, image: "/5.jpeg" },
+  { id: 6, name: "Ashoka Flower Pot", price: 220, image: "/6.jpeg" },
+  { id: 7, name: "Sizzling Peacock", price: 450, image: "/7.jpeg" },
 ];
 
 const BACKGROUNDS = [
